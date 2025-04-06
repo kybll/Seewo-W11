@@ -30,12 +30,9 @@
 - 中国科学技术大学 pip源
 - VSCode预装
 
-## 🛠️ 安装说明
-### 系统下载
-主123盘下载：https://www.123865.com/s/PpKjjv-3LpD3
-备123盘下载：https://www.123684.com/s/PpKjjv-3LpD3
 
-### 系统部署
+
+
 ## 🛠️ 系统部署指南
 
 ### 准备工作
@@ -46,6 +43,10 @@
 - 镜像文件：
   - `System.pmf`（系统镜像）
   - `Data.pmf`（数据分区镜像）
+
+### 系统下载
+- 主123盘下载：https://www.123865.com/s/PpKjjv-3LpD3
+- 备123盘下载：https://www.123684.com/s/PpKjjv-3LpD3
 
 ### 磁盘分区配置
 #### 步骤1-4：磁盘初始化
