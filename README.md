@@ -1,4 +1,4 @@
-# Seewo-W11 教育一体机优化系统
+# Seewo-W11
 [![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 在希沃教育一体机上运行Windows 11 LTSC的优化配置方案，适用于教育场景。
